@@ -1,4 +1,4 @@
-# Ruby Backend Engineer Technical Evaluation
+# Ruby Backend Engineer Code Exercise
 
 Code quality is very important to us.
 
