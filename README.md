@@ -28,10 +28,10 @@ We're sending you this challenge so that we can evaluate your coding skills and 
 
 ### Notes
 
+- Create as many files/classes as you need
 - Use anything you need from Ruby standard library
 - Don't use any gem to accomplish the solution
 - Don't worry about invalid input data
-- Don't worry about using `require` - the app already autoloads any new Ruby files
 
 # Instructions
 
