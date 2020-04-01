@@ -1,1 +1,1 @@
-Dir.glob('./app/**/*.rb').each(&method(:require))
+require './app/people_controller.rb'
