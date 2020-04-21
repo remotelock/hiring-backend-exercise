@@ -31,7 +31,7 @@ We're sending you this challenge so that we can evaluate your coding skills and 
 - Create as many files/classes as you need
 - Use anything you need from Ruby standard library
 - Don't use any gem to accomplish the solution
-- Don't worry about invalid input data
+- Don't worry about invalid input data (if your solution works for the sample data, that's what we need)
 
 # Instructions
 
