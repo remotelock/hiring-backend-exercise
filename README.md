@@ -7,20 +7,24 @@ We're sending you this challenge so that we can evaluate your coding skills and 
 ## What we expect to see in your solution
 
 - Adherence to Ruby's conventions and idioms
-- Clean code
-- Consistent style
-- Extensibility
-- Maintainability
-- Object-oriented
-- Testability
+- Cleaniness/Clarity: Is the intent of the code obvious? Are things named appropriately? Please void overly clever solutions.
+- Consistent style: We don't expect you to follow an specific Ruby code style, but you should be consistent with your choice.
+- Maintainability: How flexible is the code?
+- Testability: Is it easy to test the code? Please demonstrate with unit tests.
+
+- Elegant Object-oriented Design - please avoid imperative or functional coding style
 
 # The challenge
 
-- Read/parse data represented in different formats
+Write an app that:
+
+- Read/parse people information represented in different formats
 
   Find a sample of each format in [spec/fixtures](spec/fixtures)
 
-- Order the data by `first_name`
+- Combine the entries from the different formats
+
+- Order the entries by `first_name`
 
 - Format each entry to `<first_name>, <city>, <birth_date M/D/YYYY>`
 
