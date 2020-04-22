@@ -3,12 +3,9 @@ Please respond to the following questions regarding your code solution:
 - [ ] Check if you believe your code is readable to other developers
 
 - [ ] Check if you are following a consistent code style
-
-- Give a score (1-10) on how extensible is your code
+  
+- Give a score (1-10) on how maintainable you believe your code is
   Answer: 
   
-- Give a score (1-10) on how maintainable is your code
-  Answer: 
-  
-- Give a score (1-10) on how testable is your code
+- Give a score (1-10) on how testable you believe your code is
   Answer: 
