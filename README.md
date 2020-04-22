@@ -9,10 +9,10 @@ We're sending you this challenge so that we can evaluate your coding skills and 
 - Adherence to Ruby's conventions and idioms
 - Cleaniness/Clarity: Is the intent of the code obvious? Are things named appropriately? Please void overly clever solutions.
 - Consistent style: We don't expect you to follow an specific Ruby code style, but you should be consistent with your choice.
+- Elegant Object-oriented Design - please avoid imperative or functional coding style.
 - Maintainability: How flexible is the code?
 - Testability: Is it easy to test the code? Please demonstrate with unit tests.
-
-- Elegant Object-oriented Design - please avoid imperative or functional coding style
+- Use DRY, KISS and SOLID responsibly to find the sweet spot between a under-engineering and over-engineering.
 
 # The challenge
 
