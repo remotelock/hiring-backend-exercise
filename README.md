@@ -24,7 +24,7 @@ Write an app that:
 
 - Combine the entries from the different formats
 
-- Order the entries by `first_name`
+- Sort the entries by `first_name`
 
 - Format each entry to `<first_name>, <city>, <birth_date M/D/YYYY>`
 
