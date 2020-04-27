@@ -9,7 +9,7 @@ RSpec.describe 'App Functional Test' do
       {
         dollar_format: File.read('spec/fixtures/people_by_dollar.txt'),
         percent_format: File.read('spec/fixtures/people_by_percent.txt'),
-        order: :name,
+        order: :first_name,
       }
     end
     let(:people_controller) { PeopleController.new(params) }
