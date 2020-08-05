@@ -34,6 +34,8 @@ Write an app that:
 
 - Create as many files/classes as you need
 - Use anything you need from Ruby standard library
+- Don't change files under [spec/fixtures](spec/fixtures)
+- Don't change the existing functional test at [spec/functional/app_spec.rb](spec/functional/app_spec.rb)
 - Don't use any gem to accomplish the solution
 - Don't worry about invalid input data (if your solution works for the sample data, that's what we need)
 
