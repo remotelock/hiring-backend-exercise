@@ -5,8 +5,8 @@ in production free of any functional bugs.
 
 # Instructions
 
-Your task is to review the open PR and provide feedback as if you just became a
-contributor of this project.
+Your task is to review the open PR and provide feedback as if you were a
+maintainer of this project.
 
 Review the code both from a programming/style and from an operational perspective.
 Please be thorough in your review.
