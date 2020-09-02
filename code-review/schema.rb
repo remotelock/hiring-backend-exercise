@@ -9,7 +9,7 @@ ActiveRecord::Schema.define(version: 20191020102030) do
 
   create_table "locks", id: :integer, force: :cascade, options: "ENGINE=InnoDB DEFAULT CHARSET=utf8" do |t|
     t.string "name", null: false
-    t.integer "serial_number", null: false
+    t.string "serial_number", null: false
     t.integer "user_id", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
