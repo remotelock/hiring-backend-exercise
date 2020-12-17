@@ -10,7 +10,7 @@ knowledge in Ruby.
 In this repository there are two tasks:
 
 - A code review in the directory [/code-review](/code-review) where you
-should familirize yourself to the existing code, and submit a review to the PR
+should familiarize yourself to the existing code, and submit a review to the PR
 that is open.
 
 - A code exercise in the directory [/code-exercise](/code-exercise) where you
