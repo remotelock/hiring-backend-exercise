@@ -26,12 +26,12 @@ Write an app that:
 ## What we expect to see in your solution
 
 - Adherence to Ruby's conventions and idioms
-- Cleaniness/Clarity: Is the intent of the code obvious? Are things named appropriately? Please void overly clever solutions.
-- Consistent style: We don't expect you to follow an specific Ruby code style, but you should be consistent with your choice.
+- Cleanliness/Clarity: Is the intent of the code obvious? Are things named appropriately? Please void overly clever solutions.
+- Consistent style: We don't expect you to follow a specific Ruby code style, but you should be consistent with your choice.
 - Elegant Object-oriented Design - please avoid imperative or functional coding style.
 - Maintainability: How flexible is the code?
 - Testability: Is it easy to test the code? Please demonstrate with unit tests.
-- Use DRY, KISS and SOLID responsibly to find the sweet spot between a under-engineering and over-engineering.
+- Use DRY, KISS and SOLID responsibly to find the sweet spot between an under-engineering and over-engineering.
 
 # Instructions
 
