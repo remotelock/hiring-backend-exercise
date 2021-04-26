@@ -1,5 +1,5 @@
 class Event < ActiveRecord::Base
-  self.per_page = 25
+  paginates_per 25
 
   belongs_to :user
   belongs_to :lock
